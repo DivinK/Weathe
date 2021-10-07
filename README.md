@@ -1,8 +1,9 @@
 # Weathe App 
 
-I will bi working whith:
+I will be working whith:
 
 SwiftUI
 .Struct
 .Stack
 .Aranging code...
+.passing data
