@@ -7,4 +7,4 @@ SwiftUI
 .Stack
 .Aranging code...
 .passing data
-![](Images/firstLook.png)
+<img src="Images/firstLook.png">
