@@ -7,4 +7,4 @@ SwiftUI
 .Stack
 .Aranging code...
 .passing data
-<img src="Images/firstLook.png">
+<img src="Images/firstLook.png" width="100" height="180"> 
